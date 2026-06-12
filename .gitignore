@@ -14,7 +14,6 @@ __pycache__/
 venv/
 
 # IDEs
-.vscode/
 .idea/
 
 # Build files
@@ -32,7 +31,6 @@ dist/
 
 # Secrets and sensitive files
 secrets.env
-.env
 browser_cookies.json
 cookies.json
 gcp-login.json
@@ -84,3 +82,9 @@ product_extraction.py
 plot.py
 
 .claude/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
